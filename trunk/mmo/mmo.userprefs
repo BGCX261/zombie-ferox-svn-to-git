@@ -1,0 +1,12 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DemoVikings\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs">
+    <Files>
+      <File FileName="Assets\DemoVikings\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs" Line="2522" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
